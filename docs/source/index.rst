@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+KUBET77 - KUBET - LINK KUBET - HƯỚNG DẪN NGƯỜI CHƠI THAM GIA KUBET77 - kubet77.meme
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Kubet77 <https://kubet77.meme/>`_ là nhà cái uy tín bậc nhất Việt Nam, trang web hướng dẫn người chơi đăng ký nhanh chóng và thuận tiện. Để trở thành thành viên chính thức tại Kubet77, người chơi phải thực hiện đăng ký tài khoản, đáp ứng các điều kiện như đủ 18 tuổi, có tài khoản ngân hàng và thiết bị kết nối mạng. Thông tin cá nhân phải chính xác và không sử dụng của người khác. Sau khi hoàn tất, người chơi có thể sử dụng tài khoản để tham gia cá cược. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Lưu ý khi đăng ký bao gồm tạo mật khẩu mạnh, thay đổi mật khẩu thường xuyên, và tuân thủ các điều khoản Kubet77. Nếu gặp vấn đề khi đăng ký, người chơi nên liên hệ bộ phận CSKH để được hỗ trợ. Các lỗi thường gặp như không nhận được mã xác nhận, không nhập mã đại lý, và trùng tên tài khoản cũng được đề cập và hướng dẫn cách khắc phục.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 413/Lê Văn Quới/22A 56/19, khu phố 5, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 84813670515. 
 
-.. toctree::
+Email: kubet77meme@gmail.com. 
 
-   usage
-   api
+Website: c
+
+#kubet77 #nhacaikubet77 #dangkykubet77 #trangchukubet77 #linkkubet77 
